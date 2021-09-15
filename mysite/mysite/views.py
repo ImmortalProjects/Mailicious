@@ -6,7 +6,7 @@ def hello(request):
         'Subject here',
         'We did it. END OF PROJECt',
         'amritansh131001@outlook.com',
-        ['amritansh7757@gmail.com'],
+        ['aryanjunagade5@gmail.com'],
         fail_silently=False,
     )
     return HttpResponse("Hello baby!")
